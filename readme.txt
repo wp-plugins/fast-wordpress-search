@@ -14,32 +14,32 @@ Faster and Relevance WordPress Search result with low resource consuming
 
 Full list of features:
 
-* Auto Replace WordPress core search feature
-* Low resource consuming when doing search in large database
+* Auto Replace WordPress core search feature.
+* Low resource consuming when doing search in large database.
 * Have Benchmark tools to test the search time.
 
 Other interesting stuff:
-* Check out the other Wordpress plugins or projects (http://www.ivankristianto.com/portfolio/) by the same author.
+* Check out the other Wordpress plugins or projects [My Portfolio] (http://goo.gl/OHQNc) by the same author.
 * Want to optimize your WordPress blog? Check out the [WordPress Optimization Article](http://goo.gl/QedtH) Guide!
 
 == Installation ==
 
 This section describes how to install the plugin and get it working.
-1. Upload `fwp-search` folder to the `/wp-content/plugins/` directory
-2. Activate the plugin through the 'Plugins' menu in WordPress
-3. Go to the options panel under the 'Settings' menu
+1. Upload `fwp-search` folder to the `/wp-content/plugins/` directory.
+2. Activate the plugin through the 'Plugins' menu in WordPress.
+3. Go to the options panel under the 'Settings' menu.
 4. Done!
 
 == Changelog ==
 
 = 0.6 =
-* First release of the plugin
+* First release of the plugin.
 
 == Frequently Asked Questions ==
 
 = I always redirected to 404 page when activating this plugin =
 
-This rarely happen, but in some cases it is because you have a large database and have lot of posts. It will redirected to 404 page because the PHP execution time is timeout. I suggest you to manually edit the table structure. If you need help contact me at ivan@ivankristianto.com
+This rarely happen, but in some cases it is because you have a large database and have lot of posts. It will redirected to 404 page because the PHP execution time is timeout. I suggest you to manually edit the table structure. If you need help contact me at ivan@ivankristianto.com .
 
 = No post result found =
 
