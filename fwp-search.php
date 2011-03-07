@@ -499,7 +499,8 @@ end;
 		$content = '<p>'.__('Why not do any or all of the following:','ivanplugin').'</p>';
 		$content .= '<ul>';
 		$content .= '<li><a href="'.$this->plugin['plugin-uri'].'">'.__('Link to it so other folks can find out about it.','ivanplugin').'</a></li>';
-		$content .= '<li><a href="http://wordpress.org/extend/plugins/'.$this->plugin['short-name'].'/">'.__('Let other people know that it works with your WordPress setup.','ivanplugin').'</a></li>';
+		$content .= '<li><a href="http://wordpress.org/extend/plugins/fast-wordpress-search/">'.__('Let other people know that it works with your WordPress setup.','ivanplugin').'</a></li>';
+		$content .= '<li><a href="http://www.ivankristianto.com/internet/blogging/guide-to-improve-your-wordpress-blog-performance-for-free/1471/">'.__('Guide To Improve Your WordPress Blog Performance For Free.','ivanplugin').'</a></li>';
 		$content .= '</ul>';
 		$this->postbox($hook.'like', 'Like this plugin?', $content);
 	}
@@ -529,7 +530,7 @@ end;
 				$content .= '</li>';
 			}
 		}						
-		$content .= '<li class="rss"><a href="http://feeds2.feedburner.com/ivankristianto/TkpP">Subscribe with RSS</a></li>';
+		$content .= '<li class="rss"><a href="http://feeds2.feedburner.com/ivankristianto">Subscribe with RSS</a></li>';
 		//$content .= '<li class="email"><a href="http://ivankristianto.com/email-blog-updates/">Subscribe by email</a></li>';
 		$content .= '</ul>';
 		$this->postbox('ivankristiantolatest', 'Latest from IvanKristianto.com', $content);
