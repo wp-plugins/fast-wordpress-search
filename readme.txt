@@ -4,7 +4,7 @@ Donate link: http://www.ivankristianto.com/portfolio/
 Tags: search, better search, fast search, relevance search
 Requires at least: 2.8
 Tested up to: 3.1
-Stable tag: 4.0.9
+Stable tag: 0.6
 
 Faster and Relevance WordPress Search result with low resource consuming
 
@@ -19,6 +19,7 @@ Full list of features:
 * Have Benchmark tools to test the search time.
 
 Other interesting stuff:
+
 * Check out the other Wordpress plugins or projects [My Portfolio](http://goo.gl/OHQNc) by the same author.
 * Want to optimize your WordPress blog? Check out the [WordPress Optimization Article](http://goo.gl/QedtH) Guide!
 
