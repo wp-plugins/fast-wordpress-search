@@ -19,7 +19,7 @@ Full list of features:
 * Have Benchmark tools to test the search time.
 
 Other interesting stuff:
-* Check out the other Wordpress plugins or projects [My Portfolio] (http://goo.gl/OHQNc) by the same author.
+* Check out the other Wordpress plugins or projects [My Portfolio](http://goo.gl/OHQNc) by the same author.
 * Want to optimize your WordPress blog? Check out the [WordPress Optimization Article](http://goo.gl/QedtH) Guide!
 
 == Installation ==
