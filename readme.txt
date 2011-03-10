@@ -1,5 +1,5 @@
 === Fast WordPress Search ===
-Contributors: Ivan Kristianto
+Contributors: ivankristianto
 Donate link: http://www.ivankristianto.com/portfolio/
 Tags: search, better search, fast search, relevance search
 Requires at least: 2.8
